@@ -87,8 +87,4 @@ def get_final_count():
 
     return get_num_occupied()
 
-print(get_final_count())
-
-print("hello")
-
-print("github")
+print("Number of seats taken: " ,get_final_count())
